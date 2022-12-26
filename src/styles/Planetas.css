@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.titu {
+  color: white;
+  font-family: Impact , ' Arial Narrow Bold' , sans-serif;
+  font-size: 25px;
+  margin-bottom: 4%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.mostra-planetas {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 11vw;
+}
